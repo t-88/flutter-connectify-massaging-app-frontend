@@ -1,16 +1,31 @@
-# connectify
+# Connectify
 
-A new Flutter project.
+* A frontend to a messaging app, no more,and a lot no less :)
+* backend will be build privately
 
-## Getting Started
+## Why build another msging app
 
-This project is a starting point for a Flutter application.
+when i was hangging out with a friend helping him with web dev stuff, he wanted to build a msging app but he just started programming, i told him with enought practice he can build it, its easy then i thought why dont i build a msging app, well here we are
 
-A few resources to get you started if this is your first Flutter project:
+## why the private backend 
+i dont trust in my self to make a "secure" app
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## notes
+* not tested in other devices, may break
+* bugs...........
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## screenshots
+![1png](https://github.com/t-88/flutter-connectify-massaging-app-frontend/blob/master/screenshots/1.jpg)
+![2png](https://github.com/t-88/flutter-connectify-massaging-app-frontend/blob/master/screenshots/2.jpg)
+![3png](https://github.com/t-88/flutter-connectify-massaging-app-frontend/blob/master/screenshots/3.jpg)
+![4png](https://github.com/t-88/flutter-connectify-massaging-app-frontend/blob/master/screenshots/4.jpg)
+![5png](https://github.com/t-88/flutter-connectify-massaging-app-frontend/blob/master/screenshots/5.jpg)
+![6png](https://github.com/t-88/flutter-connectify-massaging-app-frontend/blob/master/screenshots/6.jpg)
+
+## credit
+* some msg from some dc server
+* [undraw](https://undraw.co/illustrations)
+
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
